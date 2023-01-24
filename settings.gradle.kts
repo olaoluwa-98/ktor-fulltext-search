@@ -1,0 +1,1 @@
+rootProject.name = "com.codechauffeur.ktor-fulltext-search"
